@@ -17,4 +17,4 @@ I simply made the **Nuxt.Js** version of that [original Template](https://github
 
 
 **Original Vue Template** : https://github.com/creativetimofficial/vue-notus
-* Original Maker : * https://github.com/creativetimofficial
+* Original Maker :  https://github.com/creativetimofficial
